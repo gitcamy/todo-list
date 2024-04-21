@@ -1,0 +1,4 @@
+#inputTask {
+    width: 30%;
+    box-sizing: border-box; /* include padding and border in total width */
+}
