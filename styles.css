@@ -2,3 +2,11 @@
     width: 30%;
     box-sizing: border-box; /* include padding and border in total width */
 }
+
+.crossed-out {
+    text-decoration: line-through;
+}
+
+#taskList {
+    list-style-type: none;
+}
