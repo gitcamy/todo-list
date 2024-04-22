@@ -1,5 +1,5 @@
 #inputTask {
-    width: 30%;
+    width: 70%;
     box-sizing: border-box; /* include padding and border in total width */
 }
 
@@ -10,3 +10,50 @@
 #taskList {
     list-style-type: none;
 }
+
+h1 {
+    font-family:Helvetica, sans-serif;
+    size: 50px;
+    color:black;
+}
+
+p {
+    font-family:Helvetica, sans-serif;
+    size: 12px;
+    color:black;
+}
+
+body {
+    padding: 20px;
+}
+
+input {
+    border-radius: 20px;
+    border: none;
+    background:gainsboro;
+    padding: 10px;
+}
+
+button {
+    border-radius: 20px;
+    border: none; 
+    background-color: rgb(147, 127, 102);
+    padding: 10px;
+}
+
+#submitBtn {
+    color:antiquewhite;
+}
+
+#addNewTaskContainer {
+    border-radius: 20px;
+    background-color:rgb(126, 164, 165);
+    width: 30%;
+    padding: 10px;
+
+}
+
+ul {
+    font-family: Helvetica, sans-serif;
+}
+
